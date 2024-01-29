@@ -1,0 +1,140 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 26/07/2019 13:37
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-factory:before { content: "\f100"; }
+.flaticon-factory-1:before { content: "\f101"; }
+.flaticon-engineer:before { content: "\f102"; }
+.flaticon-valve:before { content: "\f103"; }
+.flaticon-conveyor:before { content: "\f104"; }
+.flaticon-oil:before { content: "\f105"; }
+.flaticon-truck:before { content: "\f106"; }
+.flaticon-forklift:before { content: "\f107"; }
+.flaticon-voltmeter:before { content: "\f108"; }
+.flaticon-fuel-truck:before { content: "\f109"; }
+.flaticon-gear:before { content: "\f10a"; }
+.flaticon-fuel-station:before { content: "\f10b"; }
+.flaticon-robotic-arm:before { content: "\f10c"; }
+.flaticon-product:before { content: "\f10d"; }
+.flaticon-worker:before { content: "\f10e"; }
+.flaticon-robot-arm:before { content: "\f10f"; }
+.flaticon-help:before { content: "\f110"; }
+.flaticon-conveyor-1:before { content: "\f111"; }
+.flaticon-factory-2:before { content: "\f112"; }
+.flaticon-optimization:before { content: "\f113"; }
+.flaticon-wrench:before { content: "\f114"; }
+.flaticon-crane:before { content: "\f115"; }
+.flaticon-engineer-1:before { content: "\f116"; }
+.flaticon-design-tools:before { content: "\f117"; }
+.flaticon-construction:before { content: "\f118"; }
+.flaticon-settings:before { content: "\f119"; }
+.flaticon-idea:before { content: "\f11a"; }
+.flaticon-calculator:before { content: "\f11b"; }
+.flaticon-cpu:before { content: "\f11c"; }
+.flaticon-repair-tools:before { content: "\f11d"; }
+.flaticon-internet:before { content: "\f11e"; }
+.flaticon-analytics:before { content: "\f11f"; }
+.flaticon-printer:before { content: "\f120"; }
+.flaticon-helmet:before { content: "\f121"; }
+.flaticon-presentation:before { content: "\f122"; }
+.flaticon-alarm-clock:before { content: "\f123"; }
+.flaticon-bar-chart:before { content: "\f124"; }
+.flaticon-microphone:before { content: "\f125"; }
+.flaticon-shield:before { content: "\f126"; }
+.flaticon-loupe:before { content: "\f127"; }
+.flaticon-settings-1:before { content: "\f128"; }
+.flaticon-monitor:before { content: "\f129"; }
+.flaticon-shopping-cart:before { content: "\f12a"; }
+.flaticon-home:before { content: "\f12b"; }
+.flaticon-message:before { content: "\f12c"; }
+.flaticon-heart:before { content: "\f12d"; }
+.flaticon-user:before { content: "\f12e"; }
+.flaticon-play-button:before { content: "\f12f"; }
+.flaticon-planet-earth:before { content: "\f130"; }
+.flaticon-settings-2:before { content: "\f131"; }
+    
+    $font-Flaticon-factory: "\f100";
+    $font-Flaticon-factory-1: "\f101";
+    $font-Flaticon-engineer: "\f102";
+    $font-Flaticon-valve: "\f103";
+    $font-Flaticon-conveyor: "\f104";
+    $font-Flaticon-oil: "\f105";
+    $font-Flaticon-truck: "\f106";
+    $font-Flaticon-forklift: "\f107";
+    $font-Flaticon-voltmeter: "\f108";
+    $font-Flaticon-fuel-truck: "\f109";
+    $font-Flaticon-gear: "\f10a";
+    $font-Flaticon-fuel-station: "\f10b";
+    $font-Flaticon-robotic-arm: "\f10c";
+    $font-Flaticon-product: "\f10d";
+    $font-Flaticon-worker: "\f10e";
+    $font-Flaticon-robot-arm: "\f10f";
+    $font-Flaticon-help: "\f110";
+    $font-Flaticon-conveyor-1: "\f111";
+    $font-Flaticon-factory-2: "\f112";
+    $font-Flaticon-optimization: "\f113";
+    $font-Flaticon-wrench: "\f114";
+    $font-Flaticon-crane: "\f115";
+    $font-Flaticon-engineer-1: "\f116";
+    $font-Flaticon-design-tools: "\f117";
+    $font-Flaticon-construction: "\f118";
+    $font-Flaticon-settings: "\f119";
+    $font-Flaticon-idea: "\f11a";
+    $font-Flaticon-calculator: "\f11b";
+    $font-Flaticon-cpu: "\f11c";
+    $font-Flaticon-repair-tools: "\f11d";
+    $font-Flaticon-internet: "\f11e";
+    $font-Flaticon-analytics: "\f11f";
+    $font-Flaticon-printer: "\f120";
+    $font-Flaticon-helmet: "\f121";
+    $font-Flaticon-presentation: "\f122";
+    $font-Flaticon-alarm-clock: "\f123";
+    $font-Flaticon-bar-chart: "\f124";
+    $font-Flaticon-microphone: "\f125";
+    $font-Flaticon-shield: "\f126";
+    $font-Flaticon-loupe: "\f127";
+    $font-Flaticon-settings-1: "\f128";
+    $font-Flaticon-monitor: "\f129";
+    $font-Flaticon-shopping-cart: "\f12a";
+    $font-Flaticon-home: "\f12b";
+    $font-Flaticon-message: "\f12c";
+    $font-Flaticon-heart: "\f12d";
+    $font-Flaticon-user: "\f12e";
+    $font-Flaticon-play-button: "\f12f";
+    $font-Flaticon-planet-earth: "\f130";
+    $font-Flaticon-settings-2: "\f131";

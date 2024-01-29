@@ -1,0 +1,70 @@
+# Translation of Themes - ColorPress in Turkish
+# This file is distributed under the same license as the Themes - ColorPress package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-06-28 10:24:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: tr\n"
+"Project-Id-Version: Themes - ColorPress\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "A powerful next generation theme for upcoming generations and traditional UI that focuses on the color combinations of solid and gradient colors, along with cool animations and attractive features. It's perfect for any type of business. View the demo of ColorPress Pro https://www.nayrathemes.com/demo/pro/?theme=colorpress"
+msgstr "Harika animasyonlar ve çekici özellikler ile birlikte, düz ve gradyan renk kombinasyonlarına odaklanmış geleneksel bir kullanıcı ara birimi ve gelecek nesillere yönelik yeni nesil güçlü bir tema. Her tür ticari iş için mükemmel bir tema. ColorPress Pro örnek sayfasını görüntüleyin https://www.nayrathemes.com/demo/pro/?theme=colorpress"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "ColorPress"
+msgstr "ColorPress"
+
+#: footer.php:88
+msgid "<a href=\"https://www.nayrathemes.com/colorpress-free/\" target=\"_blank\">ColorPress</a>"
+msgstr "<a href=\"https://www.nayrathemes.com/colorpress-free/\" target=\"_blank\">ColorPress</a>"
+
+#: inc/customize/colorpress-premium.php:36
+msgid "Show Some Love"
+msgstr "Biraz sevgi gösterin"
+
+#: inc/customize/colorpress-premium.php:32
+msgid "Free Vs Pro"
+msgstr "Ücretsiz ve Pro"
+
+#: inc/customize/colorpress-premium.php:30
+msgid "Get Support"
+msgstr "Destek al"
+
+#: inc/customize/colorpress-premium.php:28
+msgid "View Documentation"
+msgstr "Belgeleri görüntüle"
+
+#: inc/customize/colorpress-premium.php:12
+#: inc/customize/colorpress-premium.php:34
+msgid "Upgrade to Pro"
+msgstr "Pro sürüme yükseltin"
+
+#: header.php:18
+msgid "Skip to content"
+msgstr "İçeriğe geç"
+
+#: footer.php:10
+msgid "footer-effect-active"
+msgstr "footer-effect-active"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://www.nayrathemes.com/colorpress-free/"
+msgstr "https://www.nayrathemes.com/colorpress-free/"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://www.nayrathemes.com/"
+msgstr "https://www.nayrathemes.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Nayra Themes"
+msgstr "Nayra Themes"

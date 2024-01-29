@@ -1,0 +1,16 @@
+/*===================== Premery bg color =====================*/
+:root {
+	--color-primary: #0086f0;
+	--color-secondry: #004b87;
+	--color-hover: #0073ce;
+	--rgba-primary-1: rgba(0,134,240,0.1);
+	--rgba-primary-2: rgba(0,134,240,0.2);
+	--rgba-primary-3: rgba(0,134,240,0.3);
+	--rgba-primary-4: rgba(0,134,240,0.4);
+	--rgba-primary-5: rgba(0,134,240,0.5);
+	--rgba-primary-6: rgba(0,134,240,0.6);
+	--rgba-primary-7: rgba(0,134,240,0.7);
+	--rgba-primary-8: rgba(0,134,240,0.8);
+	--rgba-primary-9: rgba(0,134,240,0.9);
+	--text-sec:#2d3239;
+}

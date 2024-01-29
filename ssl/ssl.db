@@ -1,0 +1,43 @@
+--- 
+files: 
+  certificate: 
+    kalemotorluaraclar_com_d5f67_58f13_1706613045_b74bbb435890fe483140ff3134fddfa7: 
+      created: '1698840647'
+      domains: 
+        - kalemotorluaraclar.com
+        - www.kalemotorluaraclar.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: kalemotorluaraclar.com ve www.kalemotorluaraclar.com
+      id: kalemotorluaraclar_com_d5f67_58f13_1706613045_b74bbb435890fe483140ff3134fddfa7
+      is_self_signed: 0
+      issuer.commonName: R3
+      issuer.organizationName: Let's Encrypt
+      key_algorithm: rsaEncryption
+      modulus: d5f67b39796a3ee9223c5db938189f994e9f0887360524eea315bec29331dff839f72b37cd722cbf1d9901c1b9ee9ca0dfd55ca5ce7e680dec30ae78c02ee0d301ad5291bd31243d986b27cfa7c1e2df1ddf91d92afef2ca92f085ce229f7f855f581fe646bfe33dd4b45307144fc07dba4265da89da29fa4565a48b8068e20ad9c8abc81a0e2c5753d16bad3243ee400c275eae7782c4d723bbce3181d76bc988d842674ca87f8d7961e5abe129aba1ae1bd3b675d91205bb592ad2c28c3cefc314c03c1a0dfdd4203d3dc5494c3a42cb0bf56b9065595fa7e94cc93b6b6de3c74ee2266caf7720414b4a1039096d3b5aeb8e2330970b09e572830e8c658f13
+      modulus_length: 2048
+      not_after: '1706613045'
+      not_before: '1698837046'
+      serial: 03dd95411d71694041b0e6db7b30eb117619
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: kalemotorluaraclar.com
+      validation_type: dv
+  key: {}
+
+indexes: 
+  certificate: 
+    modulus: 
+      d5f67b39796a3ee9223c5db938189f994e9f0887360524eea315bec29331dff839f72b37cd722cbf1d9901c1b9ee9ca0dfd55ca5ce7e680dec30ae78c02ee0d301ad5291bd31243d986b27cfa7c1e2df1ddf91d92afef2ca92f085ce229f7f855f581fe646bfe33dd4b45307144fc07dba4265da89da29fa4565a48b8068e20ad9c8abc81a0e2c5753d16bad3243ee400c275eae7782c4d723bbce3181d76bc988d842674ca87f8d7961e5abe129aba1ae1bd3b675d91205bb592ad2c28c3cefc314c03c1a0dfdd4203d3dc5494c3a42cb0bf56b9065595fa7e94cc93b6b6de3c74ee2266caf7720414b4a1039096d3b5aeb8e2330970b09e572830e8c658f13: 
+        kalemotorluaraclar_com_d5f67_58f13_1706613045_b74bbb435890fe483140ff3134fddfa7: ~
+    subject.commonName: 
+      kalemotorluaraclar.com: 
+        kalemotorluaraclar_com_d5f67_58f13_1706613045_b74bbb435890fe483140ff3134fddfa7: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      kalemotorluaraclar.com ve www.kalemotorluaraclar.com: kalemotorluaraclar_com_d5f67_58f13_1706613045_b74bbb435890fe483140ff3134fddfa7
+  key: 
+    friendly_name: {}
+
+    modulus:ecdsa_curve_name:ecdsa_public: {}
+
